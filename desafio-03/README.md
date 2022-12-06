@@ -9,17 +9,17 @@ A saída consistirá em um tipo booleano: true ou false. Como nos exemplos a bai
 
 Exemplo 1:
 
-Entrada	  Saída
-
-2	      false
+|Entrada   | Saída |
+|:--------:|:-----:|
+|2	       |false  |
 
 Explicação: 2 possui apenas dois divisores: 1 e 2.
 
 Exemplo 2:
 
-Entrada	  Saída
-
-4	      true
+|Entrada   | Saída |
+|:--------:|:-----:|
+|4	       |true   |
 
 Explicação: 4 tem três divisores: 1, 2 e 4.
 

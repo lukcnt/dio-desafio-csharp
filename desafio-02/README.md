@@ -11,14 +11,10 @@ A entrada consiste de vários casos de teste. A primeira linha de entrada conté
 Para cada caso de entrada imprima uma mensagem indicando se o segundo valor encaixa no primeiro valor, confome exemplo abaixo.
 
  
-Exemplo de Entrada	                                Exemplo de Saída
-
-4
-
-56234523485723854755454545478690 78690               encaixa
-
-5434554 543                                          nao encaixa
-
-1243 1243                                            encaixa
-
-54 64545454545454545454545454545454554               nao encaixa
+|Exemplo de Entrada                                 |Exemplo de Saída|
+|:--------------------------------------------------|:--------------:|
+|4                                                  |                |
+|56234523485723854755454545478690 78690             |encaixa         |
+|5434554 543                                        |nao encaixa     |
+|1243 1243                                          |encaixa         |
+|54 64545454545454545454545454545454554             |nao encaixa     |

@@ -12,9 +12,9 @@ A saída consiste na multiplicação do produto dos dígitos ( n ), a soma de se
 
 ### Exemplo 1
 
-Entrada	Saída
-
-234	     15
+|Entrada |Saída|
+|:------:|:---:|
+|234     |15   |
 
 Explicação: 
 
@@ -26,9 +26,9 @@ Resultado = 24 - 9 = 15
 
 ### Exemplo 2:
 
-Entrada	Saída
-
-4421	 21
+|Entrada |Saída|
+|:------:|:---:|
+|4421    |21   |
 
 Explicação: 
 
